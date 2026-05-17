@@ -1,3 +1,17 @@
+# Integrantes do grupo:
+
+Ester Pereira Sousa: https://github.com/esterpsousa/gestao_de_vendas_imobiliarias
+
+Mateus Alves Gouveia: https://github.com/MateusDB/gestao-vendas-imobiliarias
+
+Leticia Medina:
+
+Guilherme França Alves: https://github.com/Guifranca222/gestao_de_vendas_imobiliarias
+
+Gustavo Figueiredo Soares: https://github.com/gustavofigueired07/gestao_vendas
+
+Bruno Leonardo Silveira: https://github.com/silveiro21/gestao-vendas-imobiliarias
+
 # Leitor de Mensagens do WhatsApp
 
 Este projeto é uma ferramenta de automação em Python desenvolvida para capturar mensagens do WhatsApp Web de um contato ou grupo específico e exportar essas informações para uma planilha Excel.
