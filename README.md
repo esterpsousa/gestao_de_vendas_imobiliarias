@@ -5,6 +5,7 @@ Ester Pereira Sousa: https://github.com/esterpsousa/gestao_de_vendas_imobiliaria
 Mateus Alves Gouveia: https://github.com/MateusDB/gestao-vendas-imobiliarias
 
 Leticia Medina:
+https://github.com/wlehtz?tab=repositories
 
 Guilherme França Alves: https://github.com/Guifranca222/gestao_de_vendas_imobiliarias
 
